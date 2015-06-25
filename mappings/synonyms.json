@@ -1,0 +1,15 @@
+{
+  "create" : [
+      "initialize"
+    , "make"
+    , "start"
+  ],
+  "delete" : [
+      "remove"
+    , "destroy"
+  ],
+  "update" : [
+      "change"
+    , "alter"
+  ]
+}

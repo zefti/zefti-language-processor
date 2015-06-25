@@ -1,0 +1,97 @@
+{
+  "prefix" : "zefti-language-processor",
+  "errorCodes" : {
+    "556bd8cec6523900df22645f" : {
+      "eMsg" : "Reduce must be provided an array.",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bda45c6523900df226460" : {
+      "eMsg" : "Each item in the reduce array must be a string.",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bda45c6523900df226461" : {
+      "eMsg" : "Must provide msg content to clean.",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bdf26c6523900df226463" : {
+      "eMsg" : "Must provide either a string or array to clean.",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bdf26c6523900df226464" : {
+      "eMsg" : "Msg must not have multiple separators.",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bdf27c6523900df226465" : {
+      "eMsg" : "Commands must consist of strings or numbers.",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bdf27c6523900df226466" : {
+      "eMsg" : "No valid separator found.",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bdf28c6523900df226467" : {
+      "eMsg" : "",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bdf28c6523900df226468" : {
+      "eMsg" : "",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bdf29c6523900df226469" : {
+      "eMsg" : "",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bdf2ac6523900df22646a" : {
+      "eMsg" : "",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "556bdf2bc6523900df22646b" : {
+      "eMsg" : "",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+    "" : {
+      "eMsg" : "",
+      "iMsg",
+      "description" : "",
+      "sev" : 2,
+      "module" : "zefti-language-processor"
+    },
+
+  }
+}
